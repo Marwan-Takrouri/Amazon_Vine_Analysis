@@ -37,16 +37,16 @@ Total 5 Stars reviews non paid 30543
 ![Alt text]()
 
 Percentage of paid 5 star reviews 0.007%
-![Alt text]()
+
 
 Percentage of paid 5 star reviews 99%
-![Alt text]()
+
 
 5 start reviews compared to paid is 36% with vine 
-![Alt text]()
+
 
 5 start reviews compared to paid is 47 % no  vine 
-![Alt text]()
+![Alt text](https://github.com/Marwan-Takrouri/Amazon_Vine_Analysis/blob/main/percentages.png)
 
 
 
