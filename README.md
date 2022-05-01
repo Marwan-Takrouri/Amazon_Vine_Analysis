@@ -16,6 +16,7 @@ I have picked the wireless products Big data to be analysed and the out come was
 
 
 Total counts of votes was 72587
+[Alt text]()
 
 Total Helpful Votes of 65581
 
