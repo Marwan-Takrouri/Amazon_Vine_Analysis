@@ -31,7 +31,7 @@ Total 5 Stars Reviews 30765
 ![Alt text]()
 
 Total 5 stars Reviews paid 222
-![Alt text]()
+![Alt text](https://github.com/Marwan-Takrouri/Amazon_Vine_Analysis/blob/main/5%20stars%20paid.png)
 
 Total 5 Stars reviews non paid 30543
 ![Alt text]()
