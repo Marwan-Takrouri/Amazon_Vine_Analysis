@@ -25,7 +25,7 @@ Total Vine members Votes 613
 ![Alt text]()
 
 Total non Vine members 64968
-![Alt text]()
+![Alt text](https://github.com/Marwan-Takrouri/Amazon_Vine_Analysis/blob/main/vine-no.png)
 
 Total 5 Stars Reviews 30765
 ![Alt text]()
