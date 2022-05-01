@@ -22,7 +22,7 @@ Total Helpful Votes of 65581
 ![Alt text]()
 
 Total Vine members Votes 613
-![Alt text]()
+![Alt text](https://github.com/Marwan-Takrouri/Amazon_Vine_Analysis/blob/main/vine%20reviews.png)
 
 Total non Vine members 64968
 ![Alt text](https://github.com/Marwan-Takrouri/Amazon_Vine_Analysis/blob/main/vine-no.png)
