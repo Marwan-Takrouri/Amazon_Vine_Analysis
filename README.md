@@ -34,7 +34,8 @@ Total 5 stars Reviews paid 222
 ![Alt text](https://github.com/Marwan-Takrouri/Amazon_Vine_Analysis/blob/main/5%20stars%20paid.png)
 
 Total 5 Stars reviews non paid 30543
-![Alt text]()
+
+![Alt text](https://github.com/Marwan-Takrouri/Amazon_Vine_Analysis/blob/main/5%20stars%20unpaid.png)
 
 Percentage of paid 5 star reviews 0.007%
 
