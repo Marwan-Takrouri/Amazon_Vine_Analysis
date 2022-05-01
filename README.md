@@ -17,27 +17,36 @@ I have picked the wireless products Big data to be analysed and the out come was
 
 Total counts of votes was 72587
 
-![Alt text]()
+![Alt text](https://github.com/Marwan-Takrouri/Amazon_Vine_Analysis/blob/main/total%20reviews.png)
 Total Helpful Votes of 65581
+![Alt text]()
 
 Total Vine members Votes 613
+![Alt text]()
 
 Total non Vine members 64968
+![Alt text]()
 
 Total 5 Stars Reviews 30765
+![Alt text]()
 
 Total 5 stars Reviews paid 222
+![Alt text]()
 
 Total 5 Stars reviews non paid 30543
-
+![Alt text]()
 
 Percentage of paid 5 star reviews 0.007%
+![Alt text](https://github.com/Marwan-Takrouri/Amazon_Vine_Analysis/blob/main/total%20reviews.png)
 
 Percentage of paid 5 star reviews 99%
+![Alt text]()
 
 5 start reviews compared to paid is 36% with vine 
+![Alt text]()
 
 5 start reviews compared to paid is 47 % no  vine 
+![Alt text]()
 
 
 
